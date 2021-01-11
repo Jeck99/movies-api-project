@@ -1,4 +1,3 @@
-// http://api.tvmaze.com/search/shows?q=rick
 // https://iconfinder-api-auth.herokuapp.com/v4/icons/search?query=home
 let baseApi = "http://api.tvmaze.com/search/shows?q=";
 let apiResults={};
